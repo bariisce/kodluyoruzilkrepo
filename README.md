@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ![projegorsel](C:\Users\CeylanB\OneDrive - Manisa Celal Bayar Üniversitesi\Pictures\WhatsApp Image 2023-02-14 at 00.14.37.png)
 ### Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
